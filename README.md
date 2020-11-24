@@ -1,1 +1,6 @@
-# natural-number-1-to-n-
+int main()
+{
+    printf("Hello World");
+
+    return 0;
+}
